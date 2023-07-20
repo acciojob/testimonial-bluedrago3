@@ -12,10 +12,12 @@ div{
 /* 	background-colour: */
 	
 }
-cite{
+#author{
+	font-style:italic;
 	position:absolute;
 	right:5px;
-	bottom:3px;
+	bottom:5px;
+	margin:0;
 	background-color:white;
 	
 }
