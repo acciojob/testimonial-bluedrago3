@@ -7,17 +7,15 @@ div{
 	background-color:white;
 	width:700px;;
 	height:60px;
-	border:1px solid black;
-	margin-bottom:5px;
+	margin-bottom:15px;
+	padding-top:1px;
 /* 	background-colour: */
+	
 	
 }
 #author{
 	font-style:italic;
-	position:absolute;
-	right:5px;
-	bottom:5px;
-	margin:0;
+	text-align:right;
 	background-color:white;
 	
 }
